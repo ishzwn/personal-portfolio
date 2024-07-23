@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.24949a8e.css",
+    "main.js": "/personal-portfolio/static/js/main.33687b4e.js",
+    "static/media/lsu-eng.webp": "/personal-portfolio/static/media/lsu-eng.d46af41b521fab88e912.webp",
+    "index.html": "/personal-portfolio/index.html",
+    "main.24949a8e.css.map": "/personal-portfolio/static/css/main.24949a8e.css.map",
+    "main.33687b4e.js.map": "/personal-portfolio/static/js/main.33687b4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24949a8e.css",
+    "static/js/main.33687b4e.js"
+  ]
+}
